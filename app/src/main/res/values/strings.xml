@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Capston_Design</string>
+    <string name="facebook_app_id">833996473450135</string>
+    <string name="fb_login_protocol_scheme">fb833996473450135</string>
+    <string name="title_activity_main_tab_">Main_tab_Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
